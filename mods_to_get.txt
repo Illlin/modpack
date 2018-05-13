@@ -1,5 +1,3 @@
- - galactic craft
-  `- extension with lots of planets
  - waila
  - optifine
  - computercraft
